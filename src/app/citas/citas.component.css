@@ -1,0 +1,12 @@
+.tituloClass{
+    font-family:'Nerko One', cursive;
+    font-size: 3rem;
+    color: white;
+}
+ .fondo{
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../../assets/fondo/bosque3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+ }

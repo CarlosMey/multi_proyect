@@ -1,0 +1,23 @@
+input{
+    text-align: center;
+}
+
+button{
+    width: 100%;
+}
+
+.font-Title{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-transform: uppercase;
+}
+.textError{
+    font-size: 1rem;
+}
+
+.fondo{
+    background: #2C3E50;  
+    background: -webkit-linear-gradient(to right, #FD746C, #2C3E50);  
+    background: linear-gradient(to right, #FD746C, #2C3E50); 
+    height: 100vh;
+}

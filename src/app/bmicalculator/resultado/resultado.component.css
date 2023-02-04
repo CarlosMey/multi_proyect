@@ -1,0 +1,45 @@
+.titulo{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+}
+.fondoItem{
+    background-color: #FF111328;
+    height: 430px;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.estiloNumero{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.btn-color{
+    background-color: #FF3366;
+    border-color: #FF3366;
+    border-radius: 25px;
+    width: 100%;
+}
+
+.resultado{
+    color: #12BD45;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
+
+.interpretacion{
+    margin: 10px;
+    font-size: 36px;
+}

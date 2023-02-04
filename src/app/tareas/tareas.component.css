@@ -1,0 +1,8 @@
+.cursor{
+    cursor: pointer;
+}
+
+.fondo{
+    background-image: url(../../assets/fondo/bosque.jpg);
+    height: 100vh;
+}

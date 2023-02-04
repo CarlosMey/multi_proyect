@@ -1,0 +1,6 @@
+<app-navbar-noticias [titulo]="'Buscador de Noticias'"></app-navbar-noticias>
+<div class="container">
+    <app-formulario (parametrosSeleccionados)="buscarNoticias($event)"></app-formulario>
+    <app-spinner-noticias *ngIf="loading"></app-spinner-noticias>
+    <app-listado-noticias [listadoNoticias]="listNoticias"></app-listado-noticias>
+</div>

@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tarjetacredito-eee61"
+  },
+  "targets": {
+    "tarjetacredito-eee61": {
+      "hosting": {
+        "HolaMundo": [
+          "tarjetacredito-eee61"
+        ]
+      }
+    }
+  }
+}
